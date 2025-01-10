@@ -1,0 +1,31 @@
+body {
+    background: aqua;
+    font-size: 21px;
+}
+
+h1 {
+   font-size: 70px;
+   color: blue;
+}
+
+p {
+    color: #2f4c5c;
+}
+
+/*
+Margin: empty space around my element
+Border: a border / stroke / around my element
+Padding: empty space WITH background around my element
+
+All of these ADD on top of the width and height!
+*/
+
+.box {
+    background: pink;
+    width: 300px;
+
+    margin: 50px;
+    border: 3px solid red;
+    padding: 10px 20px 30px 40px;
+          /* top right bottom left*/
+}

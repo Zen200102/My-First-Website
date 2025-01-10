@@ -1,0 +1,57 @@
+body {
+    background: black;
+    color: white;
+    font-size: 21px;
+
+    font-family: Inter, Roboto, 'Helvetica Neue', 'Arial Nova', 'Nimbus Sans', Arial, sans-serif;
+}
+
+h1 {
+    font-size: 70px;
+    color: blue;
+    font-family: 'Courier New', Courier, monospace;
+
+    margin-top: 0px;
+}
+
+h2 {
+    margin-top: 0px;
+}
+
+p {
+    margin-top: opx;
+    margin-bottom: 20px;
+    line-height: 1.4;
+    font-size: 30px;
+    font-style: italic;
+    font-weight: lighter;
+    text-align: left;
+}
+
+
+a:hover,
+a:focus {
+    color: yellow;
+}
+
+.body-text {
+    background-color:aliceblue;
+    padding: 50px;
+}
+
+.body-text p {
+    color: black;
+}
+
+.body-text a {
+    color: aqua;
+}
+
+.body-text a:hover {
+    color: white;
+}
+
+.important-link,
+.body-text .important-link{
+    color: red;
+}

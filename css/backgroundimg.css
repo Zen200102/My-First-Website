@@ -1,0 +1,22 @@
+body {
+    font-size: 21px;
+    color:white;
+    background: black;
+    background-image: url(../img/1.jpg);
+}
+
+h1 {
+    color: red;
+    font-size: 50px;
+}
+
+p {
+    color: yellow;
+    font-family: sans-serif;
+}
+
+.box {
+    background-image: url(../img/1.jpg);
+    margin: 100px;
+    padding: 100px;
+}

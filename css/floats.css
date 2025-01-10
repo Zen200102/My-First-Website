@@ -1,0 +1,51 @@
+body {
+    background-color: rgb(78, 146, 209);
+    color: white;
+}
+
+.box {
+    width: 100px;
+    height: 100px;
+    float: left;
+}
+
+.box1 {
+    background: pink;
+}
+
+.box2 {
+    background: red;
+}
+
+.box3 {
+    background: firebrick;
+}
+
+.box4 {
+    background: orange;
+}
+
+.box5 {
+    background: yellow;
+}
+
+.box6 {
+    background: lime;
+    clear: both;
+}
+
+.box7 {
+    background: chartreuse;
+}
+
+.box8 {
+    background: crimson;
+}
+
+.box9 {
+    background: darksalmon;
+}
+
+.box10 {
+    background: darkslategrey;
+}

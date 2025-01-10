@@ -1,0 +1,50 @@
+body {
+    background-color: rgb(241, 143, 14);
+    color: white;
+    font-size: 21px;
+    text-align: center;
+}
+
+h1 {
+    color: blue;
+    font-size: 70px;
+    margin-bottom: 0px;
+}
+
+h2 {
+    color: red;
+    margin-top: 0px;
+}
+
+p {
+    text-align: left;
+}
+
+ol {
+    list-style-type: circle;
+}
+
+ul {
+    list-style-type: circle;
+    background-color: pink;
+    padding: 50px;
+    color: red;
+    list-style-position: inside;
+}
+
+ul li {
+    background-color: aqua;
+    margin-bottom: 15px;
+}
+
+ol {
+    background-color: orange;
+    padding: 50px;
+    list-style-position: inside;
+}
+
+ol li {
+    background-color: white;
+    margin-bottom: 15px;
+    color: red;
+}

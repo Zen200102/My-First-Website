@@ -1,0 +1,33 @@
+body {
+    background: grey;
+    font-size: 21px;
+}
+
+p {
+    color: white;
+}
+
+.intro {
+    font-size: 30px;
+    color: red;
+}
+
+.highlight {
+    background: white;
+}
+
+.accent-color {
+    color: yellow;
+}
+h1 {
+    color: black;
+    font-size: 70px;
+}
+
+.top-section {
+   
+}
+
+.bottom-section {
+    
+}
